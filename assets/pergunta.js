@@ -4,14 +4,14 @@ criaCartao(
     'Marta.'
 )
 criaCartao(
-    'História',
-    'Qual foi a maior operação militar do mundo?',
-    'Operação Overlord, conhecido como dia D.'
+    'Fórmula 1',
+    'Qual foi o circuito que Ayrton Senna veio a falecer?',
+    'Autodrómo Enzo e Dino Ferrari.'
 )
 criaCartao(
-    'Física/História',
-    'Qual o primeiro humano a pisar na lua?',
-    'Neil Armstrong'
+    'Mundo Automobílistico',
+    'Quem fundou a McLaren?',
+    'Bruce McLaren'
 )
 criaCartao(
     'História/Militar',
